@@ -1,3 +1,6 @@
+print(0)
 print('one')
 print('three')
 print(4)
+print(5)
+print(6)
