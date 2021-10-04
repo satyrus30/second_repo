@@ -1,3 +1,4 @@
+print(0)
 print('one')
 print('three')
 print(5)
